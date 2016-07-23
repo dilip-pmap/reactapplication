@@ -1,0 +1,28 @@
+{
+  "name": "reactapplication",
+  "version": "1.0.0",
+  "description": "react redux react-redux react-router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilip-pmap/reactapplication.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react-redux",
+    "react-router",
+    "react-redux-router",
+    "webpack",
+    "express"
+  ],
+  "author": "dilip gudivada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilip-pmap/reactapplication/issues"
+  },
+  "homepage": "https://github.com/dilip-pmap/reactapplication#readme"
+}
