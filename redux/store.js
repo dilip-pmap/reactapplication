@@ -7,7 +7,7 @@ import createLogger from 'redux-logger';
 import thunkMiddleware from 'redux-thunk';
 import promiseMiddleware from 'redux-promise';
 
-import * as reducers from './redux/reducers';
+import * as reducers from '../redux/reducers';
 
 // Combine the reducers for the store
 const appReducers = combineReducers({
