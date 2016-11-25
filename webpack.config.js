@@ -3,7 +3,7 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const webpack = require('webpack');
 
 // Dev environment unless production is set explictitly
-const DEV = process.env.NODE_ENV !== 'production';
+// const DEV = process.env.NODE_ENV !== 'production';
 
 const config = {
   entry: {
